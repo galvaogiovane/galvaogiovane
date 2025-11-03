@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🧑‍💻 Giovane Galvão
+## Analista de Informática - Desenvolvimento de Sistemas
 
-<!--
-**galvaogiovane/galvaogiovane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Bem-vindo(a) ao meu espaço no GitHub.
 
-Here are some ideas to get you started:
+Este repositório serve como um ponto de contato e portfólio para os projetos desenvolvidos no meu setor na **Universidade Estadual do Centro Oeste - Unicentro**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📍 Informações Profissionais e Contato
+
+| Categoria | Detalhes |
+| :--- | :--- |
+| **Função** | Analista de Informática - Desenvolvimento de Sistemas |
+| **Setor** | NEAD/TI (Núcleo de Educação a Distância / Tecnologia da Informação) |
+| **Instituição** | Universidade Estadual do Centro Oeste (Unicentro) - Santa Cruz |
+| **E-mail Institucional** | giovanegalvao@unicentro.br |
+| **Telefone** | (42) 3621-1000 |
+| **Ramal** | 1487 |
+
+---
+
+### 📚 Projetos e Atividades
+
+Aqui você pode encontrar o código-fonte de projetos, scripts e documentações desenvolvidas para apoiar os sistemas internos da Unicentro.
+
